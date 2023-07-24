@@ -1,2 +1,2 @@
 # Facial-Emotion-Recognition-
-The recognition of emotions from facial expressions has become a focal point in the fields of human-computer interaction and affective computing. Leveraging the advancements in deep learning, particularly Convolutional Neural Networks (CNN), has revolutionized the analysis and classification of human emotions based on facial images.
+To development of a robust emotion detection process using CNN for facial expression analysis. The implementation showcases the effectiveness and accuracy of the process, with evaluations conducted on various datasets to demonstrate the model's performance. Explore the repository for detailed results and further information.
